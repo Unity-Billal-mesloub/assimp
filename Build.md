@@ -11,7 +11,7 @@ You need to install
 ### Get the source
 Make sure you have a working git-installation. Open a command prompt and clone the Asset-Importer-Lib via:
 ```bash
-git clone https://github.com/assimp/assimp.git
+git clone https://github.com/Unity-Billal-mesloub/assimp.git
 ```
 ### Build from source:
 * For *assimp.lib* without any tools:
@@ -47,12 +47,12 @@ Version 7.3.0 of g++-mingw-w64 & gcc-mingw-w64 appears to work.
 
 Please see [CMake Cross Compiling](https://cmake.org/cmake/help/latest/manual/cmake-toolchains.7.html#cross-compiling) for general information on CMake Toolchains.
 
-Some users have had success building assimp using MinGW on Linux using [polly](https://github.com/ruslo/polly/).
+Some users have had success building assimp using MinGW on Linux using [polly](https://github.com/Unity-Billal-mesloub/polly/).
 
-The following toolchain, which is not maintained by assimp, seems to work on Linux: [linux-mingw-w64-gnuxx11.cmake](https://github.com/ruslo/polly/blob/master/linux-mingw-w64-gnuxx11.cmake)
+The following toolchain, which is not maintained by assimp, seems to work on Linux: [linux-mingw-w64-gnuxx11.cmake](https://github.com/Unity-Billal-mesloub/blob/main/linux-mingw-w64-gnuxx11.cmake)
 
 The following toolchain may or may not be helpful for building assimp using MinGW on Windows (untested):
- [mingw-cxx17.cmake](https://github.com/ruslo/polly/blob/master/mingw-cxx17.cmake)
+ [mingw-cxx17.cmake](https://github.com/Unity-Billal-mesloub/polly/blob/main/mingw-cxx17.cmake)
 
 Besides the toolchain, compilation should be the same as for Linux / Unix.
 
@@ -87,16 +87,26 @@ The cmake-build-environment provides options to configure the build. The followi
 
 ### Install prebuild binaries
 ## Install on all platforms using vcpkg
-You can download and install assimp using the [vcpkg](https://github.com/Microsoft/vcpkg/) dependency manager:
+You can download and install assimp using the [vcpkg](https://github.com/Unity-Billal-mesloub/vcpkg/) dependency manager:
 ```bash
-    git clone https://github.com/Microsoft/vcpkg.git
+    git clone https://github.com/Unity-Billal-mesloub/vcpkg.git
     cd vcpkg
     ./bootstrap-vcpkg.sh
     ./vcpkg integrate install
     ./vcpkg install assimp
 ```
-The assimp port in vcpkg is kept up to date by Microsoft team members and community contributors. If the version is out of date, please [create an issue or pull request](https://github.com/Microsoft/vcpkg) on the vcpkg repository.
+The assimp port in vcpkg is kept up to date by Microsoft team members and community contributors. If the version is out of date, please [create an issue or pull request](https://github.com/Unity-Billal-mesloub/vcpkg) on the vcpkg repository.
 
+## Install on all platforms using vcpkg
+You can download and install assimp using the [vcpkg](https://github.com/Unity-Engineering-software-engineering/vcpkg/) dependency manager:
+```bash
+    git clone https://github.com/Unity-Billal-mesloub/vcpkg.git
+    cd vcpkg
+    ./bootstrap-vcpkg.sh
+    ./vcpkg integrate install
+    ./vcpkg install assimp
+```
+The assimp port in vcpkg is kept up to date by Microsoft team members and community contributors. If the version is out of date, please [create an issue or pull request](https://github.com/Unity-Engineering-software-engineering/vcpkg) on the vcpkg repository.
 ### Install on Ubuntu
 You can install the Asset-Importer-Lib via apt:
 ```
