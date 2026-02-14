@@ -98,14 +98,6 @@ samples				Small number of samples to illustrate possible use cases for Assimp
 We would greatly appreciate for you to contribute to assimp. The easiest way to get involved is to submit
 a pull request with your changes against the main repository's `main` branch.
 
-## Contributors
-
-### Code Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-
-<a href="https://github.com/Unity-Billal-mesloub/assimp/graphs/contributors"><img src="https://opencollective.com/assimp/contributors.svg?width=890&button=false" /></a>
-
 ### Financial Contributors
 
 Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/assimp/contribute)]
