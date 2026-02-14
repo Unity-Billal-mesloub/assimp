@@ -4,7 +4,7 @@ Open Asset Import Library (assimp)
 Open Asset Import Library is a library that loads various 3D file formats into a shared, in-memory format. It supports more than __40 file formats__ for import and a growing selection of file formats for export.
 
 ## Current project status
-![C/C++ CI](https://github.com/assimp/assimp/workflows/C/C++%20CI/badge.svg)
+![C/C++ CI](https://github.com/assimp/assimp/workflows/C/C++/badge.svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9973693b7bdd4543b07084d5d9cf4745)](https://www.codacy.com/gh/assimp/assimp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=assimp/assimp&amp;utm_campaign=Badge_Grade)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=assimp_assimp&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=assimp_assimp)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/assimp/assimp.svg)](http://isitmaintained.com/project/assimp/assimp "Average time to resolve an issue")
@@ -21,7 +21,7 @@ Additionally, assimp features various __mesh post-processing tools__: normals an
 
 ## Developer quickstart
 ```bash
-git clone https://github.com/assimp/assimp
+git clone https://github.com/Unity-Billal-mesloub/assimp
 cd assimp
 cmake -G Ninja -DASSIMP_BUILD_TESTS=off -DASSIMP_INSTALL=off -S . -B build
 cd build
@@ -35,25 +35,25 @@ Read [our latest documentation](https://the-asset-importer-lib-documentation.rea
 Download binaries from [our Itch Projectspace](https://kimkulling.itch.io/the-asset-importer-lib).
 
 ## Test data
-Clone [our model database for testing purposes](https://github.com/assimp/assimp-mdb).
+Clone [our model database for testing purposes](https://github.com/Unity-Billal-mesloub/assimp-mdb).
 
 ## Communities
-- Ask questions at [the Assimp Discussion Board](https://github.com/assimp/assimp/discussions).
+- Ask questions at [the Assimp Discussion Board](https://github.com/Unity-Billal-mesloub/assimp/discussions).
 - Find us on [discord](https://discord.gg/kKazXMXDy2)
 - Ask [the Assimp community on Reddit](https://www.reddit.com/r/Assimp/).
 - Ask on [StackOverflow with the assimp-tag](http://stackoverflow.com/questions/tagged/assimp?sort=newest).
-- Nothing has worked? File a question or an issue report at [The Assimp-Issue Tracker](https://github.com/assimp/assimp/issues)
+- Nothing has worked? File a question or an issue report at [The Assimp-Issue Tracker](https://github.com/Unity-Billal-mesloub/assimp/issues)
 
 ## Supported file formats
-See [the complete list of supported formats](https://github.com/assimp/assimp/blob/master/doc/Fileformats.md).
+See [the complete list of supported formats](https://github.com/Unity-Billal-mesloub/assimp/blob/master/doc/Fileformats.md).
 
 ## Building
-Start by reading [our build instructions](https://github.com/assimp/assimp/blob/master/Build.md). We are available in vcpkg, and our build system is CMake; if you used CMake before there is a good chance you know what to do.
+Start by reading [our build instructions](https://github.com/Unity-Billal-mesloub/assimp/blob/master/Build.md). We are available in vcpkg, and our build system is CMake; if you used CMake before there is a good chance you know what to do.
 
 ## Ports
 * [Android](port/AndroidJNI/README.md)
 * [Python](port/PyAssimp/README.md)
-* [.NET](https://github.com/Saalvage/AssimpNetter)
+* [.NET](https://github.com/Unity-Billal-mesloub/AssimpNetter)
 * [Pascal](port/AssimpPascal/Readme.md)
 * [Javascript (Alpha)](https://github.com/makc/assimp2json)
 * [Javascript/Node.js Interface](https://github.com/kovacsv/assimpjs)
