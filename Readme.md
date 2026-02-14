@@ -56,7 +56,6 @@ Start by reading [our build instructions](https://github.com/Unity-Billal-meslou
 * [.NET](https://github.com/Unity-Billal-mesloub/AssimpNetter)
 * [Pascal](port/AssimpPascal/Readme.md)
 * [Javascript/Node.js Interface](https://github.com/Unity-Billal-mesloub/assimpjs)
-* [Unity 3d Plugin](https://Unity-Billal-mesloub.net/trilib-2/)
 * [Unreal Engine Plugin](https://github.com/Unity-Billal-mesloub/UE4_Assimp/)
 * [JVM](https://github.com/Unity-Billal-mesloub/assimp) Full JVM port (current [status](https://github.com/Unity-Billal-mesloub/assimp/wiki/Status))
 * [HAXE-Port](https://github.com/Unity-Billal-mesloub/assimp-haxe) The Assimp-HAXE-port.
