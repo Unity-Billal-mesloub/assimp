@@ -55,7 +55,6 @@ Start by reading [our build instructions](https://github.com/Unity-Billal-meslou
 * [Python](port/PyAssimp/README.md)
 * [.NET](https://github.com/Unity-Billal-mesloub/AssimpNetter)
 * [Pascal](port/AssimpPascal/Readme.md)
-* [Javascript (Alpha)](https://github.com/makc/assimp2json)
 * [Javascript/Node.js Interface](https://github.com/Unity-Billal-mesloub/assimpjs)
 * [Unity 3d Plugin](https://ricardoreis.net/trilib-2/)
 * [Unreal Engine Plugin](https://github.com/Unity-Billal-mesloub/UE4_Assimp/)
@@ -64,8 +63,8 @@ Start by reading [our build instructions](https://github.com/Unity-Billal-meslou
 * [Rust](https://github.com/Unity-Billal-mesloub/russimp)
 
 ## Other tools
-[Qt5-ModelViewer](https://github.com/sharjith/ModelViewer-Qt5) is a powerful viewer based on Qt5 and Assimp's import and export abilities.<br>
-[Assimp-Viewer](https://github.com/assimp/assimp_view) is an experimental implementation for an Asset-Viewer based on ImGUI and Assimp (experimental).
+[Qt5-ModelViewer](https://github.com/Unity-Billal-mesloub/ModelViewer-Qt5) is a powerful viewer based on Qt5 and Assimp's import and export abilities.<br>
+[Assimp-Viewer](https://github.com/Unity-Billal-mesloub/assimp_view) is an experimental implementation for an Asset-Viewer based on ImGUI and Assimp (experimental).
 
 ### Repository structure
 Open Asset Import Library is implemented in C++. The directory structure looks like this:
@@ -97,7 +96,7 @@ samples				Small number of samples to illustrate possible use cases for Assimp
 ## Contributing
 
 We would greatly appreciate for you to contribute to assimp. The easiest way to get involved is to submit
-a pull request with your changes against the main repository's `master` branch.
+a pull request with your changes against the main repository's `main` branch.
 
 ## Contributors
 
@@ -105,7 +104,7 @@ a pull request with your changes against the main repository's `master` branch.
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 
-<a href="https://github.com/assimp/assimp/graphs/contributors"><img src="https://opencollective.com/assimp/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/Unity-Billal-mesloub/assimp/graphs/contributors"><img src="https://opencollective.com/assimp/contributors.svg?width=890&button=false" /></a>
 
 ### Financial Contributors
 
@@ -122,9 +121,3 @@ You can support the project with your organization. Your logo will show up here 
 
 <a href="https://opencollective.com/assimp/organization/0/website"><img src="https://opencollective.com/assimp/organization/0/avatar.svg"></a>
 
-## License ###
-Our license is based on the modified, __3-clause BSD__-License.
-
-An _informal_ summary is: do whatever you want, but include Assimp's license text with your product -
-and don't sue us if our code doesn't work. Note that, unlike LGPLed code, you may link statically to Assimp.
-For the legal details, see the `LICENSE` file.
