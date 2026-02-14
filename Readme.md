@@ -56,12 +56,12 @@ Start by reading [our build instructions](https://github.com/Unity-Billal-meslou
 * [.NET](https://github.com/Unity-Billal-mesloub/AssimpNetter)
 * [Pascal](port/AssimpPascal/Readme.md)
 * [Javascript (Alpha)](https://github.com/makc/assimp2json)
-* [Javascript/Node.js Interface](https://github.com/kovacsv/assimpjs)
+* [Javascript/Node.js Interface](https://github.com/Unity-Billal-mesloub/assimpjs)
 * [Unity 3d Plugin](https://ricardoreis.net/trilib-2/)
-* [Unreal Engine Plugin](https://github.com/irajsb/UE4_Assimp/)
-* [JVM](https://github.com/kotlin-graphics/assimp) Full JVM port (current [status](https://github.com/kotlin-graphics/assimp/wiki/Status))
-* [HAXE-Port](https://github.com/longde123/assimp-haxe) The Assimp-HAXE-port.
-* [Rust](https://github.com/jkvargas/russimp)
+* [Unreal Engine Plugin](https://github.com/Unity-Billal-mesloub/UE4_Assimp/)
+* [JVM](https://github.com/Unity-Billal-mesloub/assimp) Full JVM port (current [status](https://github.com/Unity-Billal-mesloub/assimp/wiki/Status))
+* [HAXE-Port](https://github.com/Unity-Billal-mesloub/assimp-haxe) The Assimp-HAXE-port.
+* [Rust](https://github.com/Unity-Billal-mesloub/russimp)
 
 ## Other tools
 [Qt5-ModelViewer](https://github.com/sharjith/ModelViewer-Qt5) is a powerful viewer based on Qt5 and Assimp's import and export abilities.<br>
