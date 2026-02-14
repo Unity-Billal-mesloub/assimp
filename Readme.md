@@ -4,7 +4,7 @@ Open Asset Import Library (assimp)
 Open Asset Import Library is a library that loads various 3D file formats into a shared, in-memory format. It supports more than __40 file formats__ for import and a growing selection of file formats for export.
 
 ## Current project status
-![C/C++ CI](https://github.com/assimp/assimp/workflows/C/C++/badge.svg)
+![C/C++ CI](https://github.com/Unity-Billal-mesloub/assimp/workflows/C/C++/badge.svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9973693b7bdd4543b07084d5d9cf4745)](https://www.codacy.com/gh/assimp/assimp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=assimp/assimp&amp;utm_campaign=Badge_Grade)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=assimp_assimp&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=assimp_assimp)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/assimp/assimp.svg)](http://isitmaintained.com/project/assimp/assimp "Average time to resolve an issue")
